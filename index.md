@@ -14,6 +14,6 @@ int main() {
 ```
 
 ## Task List
-- [x] Add headers
-- [x] Add a code example
-- [x] Add a task list
+- [ ] Add headers
+- [ ] Add a code example
+- [ ] Add a task list
